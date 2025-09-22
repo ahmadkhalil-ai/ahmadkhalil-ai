@@ -51,19 +51,16 @@
   </a>
   <!-- Data Science & Tools -->
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="numpy" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="numpy" width="60" height="60"/>
   </a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="scikit_learn" width="40" height="40"/>
+    <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="scikit_learn" width="60" height="60"/>
   </a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-  </a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/matplotlib/matplotlib/main/doc/_static/logo2_compressed.svg" alt="matplotlib" width="40" height="40"/>
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="50"/>
   </a>
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-    <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="jupyter" width="40" height="40"/>
+    <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="jupyter" width="60" height="60"/>
   </a>
 </p>
 
