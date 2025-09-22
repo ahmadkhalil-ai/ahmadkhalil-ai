@@ -21,16 +21,38 @@
 
 
 
-𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝘄𝗶𝘁𝗵 𝗺𝗲:
 
 ### Connect with me:
 <p align="left">
+  <a href="https://twitter.com/ahmadkhalil_03" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/twitter.png"/>
+  </a>
   <a href="https://linkedin.com/in/ahmadkhalil03" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
   </a>
   <a href="https://instagram.com/ahmadkhalil.03" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/instagram-new.png"/>
+
 </p>
 
 
+### Languages and Tools:
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<!-- ML Frameworks -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
+   <!-- Data Science & Tools -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="numpy" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/2023/04/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/jupyter/design/main/logos/Notebooks/logo-notebook.svg" alt="jupyter" width="40" height="40"/>
+</p>
+
+### 📊 GitHub Stats:
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="top languages" />
+</p>
 
