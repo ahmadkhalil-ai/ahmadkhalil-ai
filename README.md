@@ -1,4 +1,4 @@
-![linked-in-alt](https://github.com/user-attachments/assets/050473ff-5514-4755-b794-4f6a379c4794)                                                                        ## Hi👋, I'm Ahmad Khalil
+                                                                      ## Hi👋, I'm Ahmad Khalil
                                                       Machine Learning Engineer developing skills in Artificial Intelligence.
 
 - 🎓 Currently pursuing my bachelor's in 𝗔𝗿𝘁𝗶𝗳𝗶𝗰𝗶𝗮𝗹 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲
