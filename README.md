@@ -66,7 +66,7 @@
 
 ### 📊 GitHub Stats:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmadkhalil-ai&show_icons=true&theme=tokyonight" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadkhalil-ai&layout=compact&theme=tokyonight" alt="top languages" />
 </p>
 
