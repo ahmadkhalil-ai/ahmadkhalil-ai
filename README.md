@@ -68,7 +68,7 @@
 
 ### 📊 GitHub Stats:
  <img 
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&bg_color=ffffff&text_color=000000&icon_color=0e75b6&title_color=0e75b6" 
+    src="https://github-readme-stats.vercel.app/api?username=ahmadkhalil-ai&show_icons=true&bg_color=ffffff&text_color=000000&icon_color=0e75b6&title_color=0e75b6" 
     alt="GitHub Stats" 
     height="150"
   />
@@ -76,14 +76,14 @@
 <p align="right">
   <!-- Most Used Languages -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&bg_color=ffffff&text_color=000000&title_color=0e75b6" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadkhalil-ai&layout=compact&bg_color=ffffff&text_color=000000&title_color=0e75b6" 
     alt="Top Languages" 
     height="150"
   />
   <p align="left">
   <!-- GitHub Streak -->
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=default&background=ffffff&ring=ff6c00&fire=ff6c00&currStreakLabel=000000&sideLabels=000000&dates=000000" 
+    src="https://github-readme-streak-stats.herokuapp.com?user=ahmakhalil-ai&theme=default&background=ffffff&ring=ff6c00&fire=ff6c00&currStreakLabel=000000&sideLabels=000000&dates=000000" 
     alt="GitHub Streak" 
     height="150"
   />
