@@ -67,7 +67,7 @@
 </p>
 
 ### 📊 GitHub Stats:
-### 📊 GitHub Stats:
+
 <p align="left">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=ahmadkhalil-ai&show_icons=true&theme=default&bg_color=ffffff&title_color=0e75b6&text_color=000000&icon_color=0e75b6" 
