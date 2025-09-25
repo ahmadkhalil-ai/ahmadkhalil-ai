@@ -8,6 +8,8 @@
 
 </div>
 
+![Profile views](https://komarev.com/ghpvc/?username=ahmadkhalil-ai&label=Profile%20views&color=0e75b6&style=flat)
+
 
 - 🎓 Currently pursuing my bachelor's in 𝗔𝗿𝘁𝗶𝗳𝗶𝗰𝗶𝗮𝗹 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲.
 - 🌱 Currently diving deep into 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴, 𝗡𝗟𝗣, and 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗶𝘃𝗲 𝗔𝗜 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁.  
