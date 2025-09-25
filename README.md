@@ -68,8 +68,7 @@
 
 ### 📊 GitHub Stats:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmadkhalil-ai&show_icons=true&theme=tokyonight" alt="github stats)" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadkhalil-ai&layout=compact&bg_color=ffffff&text_color=000000&title_color=0e75b6)
-" />
+  <img src=https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&bg_color=ffffff&text_color=000000&icon_color=0e75b6"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&bg_color=ffffff&text_color=000000&title_color=0e75b6" />
 </p>
 
