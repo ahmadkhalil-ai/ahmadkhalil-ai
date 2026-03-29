@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Ahmad Khalil
 
-### Machine Learning Engineer developing skills in Artificial Intelligence.
+### AI/ML Engineer developing skills in Artificial Intelligence.
 
 ---
 
