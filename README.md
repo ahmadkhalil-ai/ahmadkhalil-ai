@@ -69,14 +69,8 @@
 ### GitHub Stats:
 
 <div align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=ahmadkhalil-ai&show_icons=true&theme=default&bg_color=ffffff&title_color=0e75b6&text_color=000000&icon_color=0e75b6&cache_seconds=3600" 
-    alt="github stats" 
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadkhalil-ai&layout=compact&bg_color=ffffff&title_color=0e75b6&text_color=000000&cache_seconds=3600" 
-    alt="top languages" 
-  />
+  <img src="https://img.shields.io/github/followers/ahmadkhalil-ai?label=Followers&style=social" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/ahmadkhalil-ai?label=Stars&style=social" alt="Stars" />
 </div>
   <!-- GitHub Streak -->
   <img 
