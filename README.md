@@ -68,16 +68,10 @@
 
 ### GitHub Stats:
 
-<div align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=ahmadkhalil-ai&show_icons=true&theme=default&bg_color=ffffff&title_color=0e75b6&text_color=000000&icon_color=0e75b6" 
-    alt="github stats" 
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadkhalil-ai&layout=compact&bg_color=ffffff&title_color=0e75b6&text_color=000000" 
-    alt="top languages" 
-  />
-</div>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmadkhalil-ai&show_icons=true&theme=default&bg_color=ffffff&title_color=0e75b6&text_color=000000&icon_color=0e75b6" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadkhalil-ai&layout=compact&bg_color=ffffff&title_color=0e75b6&text_color=000000" alt="top languages" />
+</p>
   <!-- GitHub Streak -->
   <img 
     src="https://github-readme-streak-stats.herokuapp.com?user=ahmadkhalil-ai&theme=default&background=ffffff&ring=ff6c00&fire=ff6c00&currStreakLabel=000000&sideLabels=000000&dates=000000" 
