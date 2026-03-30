@@ -14,7 +14,10 @@
 - 🎓 Currently pursuing my bachelor's in 𝗔𝗿𝘁𝗶𝗳𝗶𝗰𝗶𝗮𝗹 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲.
 - 🌱 Currently diving deep into 𝗗𝗲𝗲𝗽 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴, 𝗡𝗟𝗣, and 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗶𝘃𝗲 𝗔𝗜 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁.  
 
-
+<div align="center">
+  <!-- Animated Gradient Banner -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=500&color=0E75B6&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Ahmad+Khalil's+Profile;Developer;Problem+Solver" alt="Typing SVG" />
+</div>
 
 
   
@@ -69,15 +72,7 @@
 ### GitHub Stats:
 
 <div align="center">
-  <!-- Animated Gradient Banner -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=500&color=0E75B6&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Ahmad+Khalil's+Profile;Developer;Problem+Solver" alt="Typing SVG" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats-2.vercel.app/api?username=ahmadkhalil-ai&show_icons=true&theme=default&bg_color=ffffff&title_color=0e75b6&text_color=000000&icon_color=0e75b6" />
-  <img width="49%" src="https://github-readme-stats-2.vercel.app/api/top-langs/?username=ahmadkhalil-ai&layout=compact&bg_color=ffffff&title_color=0e75b6&text_color=000000" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadkhalil-ai&theme=default&background=ffffff&stroke=0e75b6&ring=0e75b6&fire=0e75b6&currStreakNum=000000&sideNums=000000&currStreakLabel=0e75b6&sideLabels=0e75b6&dates=000000" />
 </div>
   <!-- GitHub Streak -->
   <img 
