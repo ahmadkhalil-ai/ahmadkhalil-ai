@@ -71,8 +71,9 @@
 
 ### GitHub Stats:
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadkhalil-ai&theme=default&background=ffffff&stroke=0e75b6&ring=0e75b6&fire=0e75b6&currStreakNum=000000&sideNums=000000&currStreakLabel=0e75b6&sideLabels=0e75b6&dates=000000" />
+<div align="left">
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ahmadkhalil-ai&show_icons=true&theme=default&bg_color=ffffff&title_color=0e75b6&text_color=000000&icon_color=0e75b6" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ahmadkhalil-ai&layout=compact&bg_color=ffffff&title_color=0e75b6&text_color=000000" />
 </div>
   <!-- GitHub Streak -->
   <img 
