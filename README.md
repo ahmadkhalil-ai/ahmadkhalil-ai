@@ -70,21 +70,25 @@
 
 <div align="center">
   <!-- Animated Gradient Banner -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=500&color=0E75B6&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Ahmad+Khalil's+Profile;Full+Stack+Developer;Problem+Solver" alt="Typing SVG" />
-</div>
-
-<br/>
-
-<div align="left">
-  <!-- Modern Stats Cards -->
-  <img src="https://img.shields.io/github/followers/ahmadkhalil-ai?style=for-the-badge&logo=github&label=Followers&color=0e75b6&logoColor=white&labelColor=1e2a3a" />
-  <img src="https://img.shields.io/github/stars/ahmadkhalil-ai?style=for-the-badge&logo=github&label=Stars&color=ffb86b&logoColor=white&labelColor=1e2a3a" />
-  <img src="https://komarev.com/ghpvc/?username=ahmadkhalil-ai&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=500&color=0E75B6&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Ahmad+Khalil's+Profile;Developer;Problem+Solver" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <div align="center">
+  <!-- With cache bypass -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=ahmadkhalil-ai&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=ff6b6b&text_color=c9d1d9&count_private=true&include_all_commits=true&cache_seconds=3600" 
+    alt="github stats" 
+    width="49%"
+  />
+  
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadkhalil-ai&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&text_color=c9d1d9&langs_count=8&cache_seconds=3600" 
+    alt="top languages" 
+    width="49%"
+  />
+</div>
   <!-- GitHub Stats Cards -->
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ahmadkhalil-ai&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ffb86b&icon_color=ffb86b&text_color=ffffff&count_private=true" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadkhalil-ai&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ffb86b&text_color=ffffff" />
