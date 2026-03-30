@@ -76,22 +76,8 @@
 <br/>
 
 <div align="center">
-  <!-- With cache bypass -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=ahmadkhalil-ai&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=ff6b6b&text_color=c9d1d9&count_private=true&include_all_commits=true&cache_seconds=3600" 
-    alt="github stats" 
-    width="49%"
-  />
-  
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadkhalil-ai&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&text_color=c9d1d9&langs_count=8&cache_seconds=3600" 
-    alt="top languages" 
-    width="49%"
-  />
-</div>
-  <!-- GitHub Stats Cards -->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ahmadkhalil-ai&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ffb86b&icon_color=ffb86b&text_color=ffffff&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadkhalil-ai&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ffb86b&text_color=ffffff" />
+  <img width="49%" src="https://github-readme-stats-2.vercel.app/api?username=ahmadkhalil-ai&show_icons=true&theme=default&bg_color=ffffff&title_color=0e75b6&text_color=000000&icon_color=0e75b6" />
+  <img width="49%" src="https://github-readme-stats-2.vercel.app/api/top-langs/?username=ahmadkhalil-ai&layout=compact&bg_color=ffffff&title_color=0e75b6&text_color=000000" />
 </div>
   <!-- GitHub Streak -->
   <img 
