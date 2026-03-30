@@ -72,8 +72,16 @@
 ### GitHub Stats:
 
 <div align="left">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ahmadkhalil-ai&show_icons=true&theme=default&bg_color=ffffff&title_color=0e75b6&text_color=000000&icon_color=0e75b6" />
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ahmadkhalil-ai&layout=compact&bg_color=ffffff&title_color=0e75b6&text_color=000000" />
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=ahmadkhalil-ai&show_icons=true&theme=default&bg_color=ffffff&title_color=0e75b6&text_color=000000&icon_color=0e75b6" 
+    alt="github stats" 
+    width="48%"
+  />
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ahmadkhalil-ai&layout=compact&bg_color=ffffff&title_color=0e75b6&text_color=000000" 
+    alt="top languages" 
+    width="48%"
+  />
 </div>
   <!-- GitHub Streak -->
   <img 
